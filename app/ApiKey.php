@@ -11,5 +11,4 @@ class ApiKey extends Model
   protected $primaryKey = 'id';
   
   public $timestamps = false;
-  //comment
 }
